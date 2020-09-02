@@ -1,0 +1,124 @@
+customer_id,name,country,gender,date_of_birth,date_account_start
+1,Robert Bohm,Austria,male,7/30/1980,9/2/2018
+2,Wolfgang Ackermann,Austria,male,11/17/1971,10/15/2018
+3,Daniela Herzog,Austria,female,8/7/1974,2/14/2019
+4,Julia Jung,Austria,female,1/4/1991,11/22/2017
+5,Juliane Kirsch,Austria,female,3/1/1977,12/16/2018
+6,Rowanne Couperus,Belgium,female,4/5/1994,8/26/2018
+7,Annelous Sneep,Belgium,female,11/14/1993,5/12/2018
+8,Jaëla van den Dolder,Belgium,female,8/31/1990,2/8/2018
+9,Antal van Looij,Belgium,male,6/18/1982,3/10/2019
+10,Arnout Veenhuis,Belgium,male,7/26/1984,1/28/2017
+11,Yakup Mes,Belgium,male,4/28/1978,2/19/2019
+12,Kristine J. Lauritsen,Denmark,female,1/14/1994,12/2/2018
+13,Thomas T. Nissen,Denmark,male,9/25/1975,4/30/2017
+14,Niels M. Holm,Denmark,male,12/29/1991,1/26/2018
+15,Jasmin M. Krogh,Denmark,female,11/12/1977,6/20/2018
+16,Sofia J. Pedersen,Denmark,female,5/27/1990,10/2/2018
+17,Ida E. Gregersen,Denmark,female,9/15/1998,2/7/2018
+18,Nikolaj L. Jensen,Denmark,male,6/3/1995,1/14/2019
+19,Avelaine Piedalue,France,female,4/14/1972,1/13/2017
+20,Jacqueline Cloutier,France,female,9/30/1990,11/3/2018
+21,Avelaine Corbeil,France,female,3/17/1986,6/11/2017
+22,Delit Perillard,France,female,1/10/1970,11/18/2018
+23,Fleurette Pomerleau,France,female,12/10/1981,9/4/2017
+24,Christien Tachel,France,male,6/26/1991,9/21/2018
+25,Fiacre Montminy,France,male,8/1/1973,3/29/2017
+26,Marcel Sicard,France,male,8/6/1988,1/20/2017
+27,Perrin Patel,France,male,10/30/1994,12/20/2018
+28,Sidney Généreux,France,male,12/1/1980,2/4/2017
+29,Loyal Arcouet,France,male,8/13/1995,10/30/2017
+30,Gradasso Mousseau,France,male,7/11/1976,10/10/2017
+31,Christien D'Aubigné,France,male,11/6/1986,2/13/2018
+32,Hayden O'Donnell,Great Britan,male,11/7/1991,11/20/2017
+33,Oliver Fleming,Great Britan,male,3/4/1981,2/22/2018
+34,Oscar Stanley,Great Britan,male,12/1/1993,3/31/2017
+35,Harvey Jarvis,Great Britan,male,1/16/1990,5/22/2017
+36,Jacob Hope,Great Britan,male,8/27/1979,6/24/2018
+37,Sienna Forster,Great Britan,female,12/16/1984,12/9/2018
+38,Millie Marsden,Great Britan,female,7/2/1974,11/6/2017
+39,Amy Haynes,Great Britan,female,7/28/1975,1/19/2018
+40,Matilda Connor,Great Britan,female,12/18/1990,1/18/2019
+41,Zara Mitchell,Great Britan,female,7/8/1994,6/12/2017
+42,Takáts Agoti,Hungary,female,7/7/1992,11/8/2018
+43,Szôllôs Erzebet,Hungary,female,9/4/1995,8/17/2018
+44,Lakatos Mária,Hungary,female,11/28/1994,8/12/2018
+45,Vargha Ivett,Hungary,female,11/27/1998,8/9/2017
+46,Söröss Ema,Hungary,female,3/13/1984,6/26/2017
+47,Kállai Sólyom,Hungary,male,10/29/1983,10/18/2018
+48,Mayer Károly,Hungary,male,6/2/1991,2/26/2019
+49,Havasy Kristof,Hungary,male,6/13/1998,1/18/2017
+50,Csordás Ármin,Hungary,male,11/30/1986,4/23/2018
+51,Sághy Sebes,Hungary,male,1/4/1976,3/15/2017
+52,Szepessi Marton,Hungary,male,3/14/1983,3/24/2018
+53,Teresio Panicucci,Italy,male,7/21/1999,11/6/2018
+54,Demetrio Palermo,Italy,male,10/10/1997,10/17/2018
+55,Facino Milano,Italy,male,5/23/1973,1/2/2018
+56,Dionisio Li Fonti,Italy,male,1/11/1998,2/12/2019
+57,Mario Lettiere,Italy,male,5/4/1975,1/30/2018
+58,Rocco Buccho,Italy,male,7/3/1999,2/27/2018
+59,Cristoforo Mancini,Italy,male,6/5/1980,1/12/2018
+60,Gloria Folliero,Italy,female,3/9/1972,10/24/2018
+61,Nella Manfrin,Italy,female,1/11/1974,5/14/2017
+62,Gina Lucciano,Italy,female,11/29/1985,5/22/2018
+63,Candida Padovano,Italy,female,3/21/1976,10/13/2018
+64,Dalia Lucciano,Italy,female,9/18/1972,9/20/2018
+65,Vittoria Bellucci,Italy,female,4/2/1978,4/9/2017
+66,Filippa Toscani,Italy,female,4/23/1981,2/28/2017
+67,Dora Milanesi,Italy,female,4/19/1998,11/22/2018
+68,Irma Siciliani,Italy,female,1/20/1980,2/18/2019
+69,Violetta Pagnotto,Italy,female,5/4/1999,12/23/2018
+70,Annabella Endrizzi,Italy,female,7/31/1971,5/10/2018
+71,Donata Bellucci,Italy,female,4/2/1981,11/23/2017
+72,Macaria Onio,Italy,female,4/20/1997,9/7/2017
+73,Veneranda Milani,Italy,female,1/15/1983,1/15/2018
+74,Fausto Sabbatini,Italy,male,1/23/1978,3/16/2018
+75,Luca Pinto,Italy,male,2/4/1971,3/9/2019
+76,Michelino Barese,Italy,male,4/22/1986,10/6/2017
+77,Nunzio Milanesi,Italy,male,4/6/1972,4/27/2018
+78,Doroteo Napolitano,Italy,male,6/1/1992,7/27/2017
+79,Quarantino Barese,Italy,male,11/29/1978,9/27/2017
+80,Tymoteusz Nowak,Poland,male,7/27/1983,11/17/2018
+81,Jarek Tomaszewski,Poland,male,11/30/1972,11/1/2018
+82,Dobrogost Nowakowski,Poland,male,8/14/1993,2/21/2018
+83,Marek Zawadzki,Poland,male,11/21/1995,4/1/2019
+84,Maksym Wojciechowski,Poland,male,11/23/1992,8/15/2018
+85,Teofil Szczepański,Poland,male,2/25/1979,10/14/2018
+86,Albin Jaworski,Poland,male,5/1/1984,12/15/2017
+87,Frydryk Wieczorek,Poland,male,11/17/1996,6/1/2017
+88,Bazyli Kalinowski,Poland,male,3/7/1973,7/26/2018
+89,Klementyna Borkowska,Poland,female,5/10/1975,3/3/2017
+90,Zosia Adamczyk,Poland,female,12/31/1988,1/13/2019
+91,Ewa Zawadzka,Poland,female,7/13/1988,1/5/2018
+92,Honorata Nowak,Poland,female,5/2/1986,9/21/2017
+93,Ivi Boškan,Slovenia,female,8/12/1997,4/19/2017
+94,Seima Andreč,Slovenia,female,11/19/1989,4/8/2017
+95,Darija Pokec,Slovenia,female,1/28/1992,5/31/2017
+96,Cvijeta Hervatski,Slovenia,female,7/15/1981,9/19/2018
+97,Šida Črnčič,Slovenia,female,8/21/1978,6/18/2017
+98,Nesiha Tomat,Slovenia,female,7/7/1977,9/22/2017
+99,Majdi Rozin,Slovenia,female,9/12/1996,1/31/2017
+100,Tonček Bolje,Slovenia,male,12/14/1992,2/20/2018
+101,Tunjo Krličević,Slovenia,male,10/29/1994,3/23/2019
+102,Jaša Zorzut,Slovenia,male,10/6/1984,7/15/2018
+103,Seljim Runovec,Slovenia,male,1/12/1982,8/12/2017
+104,Dimitri Zambrano Morales,Spain,male,6/21/1992,4/12/2017
+105,Micael Cardona Razo,Spain,male,12/4/1989,9/10/2017
+106,Jenofonte Gaona Mireles,Spain,male,12/18/1998,12/21/2017
+107,Filippo Segovia Muro,Spain,male,12/29/1996,2/12/2018
+108,Saúl Tafoya Meraz,Spain,male,5/15/1992,3/13/2017
+109,Zohar Malave Ornelas,Spain,male,10/22/1979,7/22/2018
+110,Ann Guajardo Méndez,Spain,female,7/17/1998,10/31/2017
+111,Quirina Alcaraz Sánchez,Spain,female,11/5/1980,6/17/2017
+112,Exaltación Herrera Ceja,Spain,female,11/20/1979,10/15/2017
+113,Lucy Centeno Barrios,Spain,female,11/3/1970,6/13/2017
+114,Canela Gaona Lozano,Spain,female,4/1/1997,2/14/2017
+115,Merlin Rolón Badillo,Spain,female,10/14/1977,2/21/2019
+116,Maciela Casillas Peralta,Spain,female,3/30/1991,12/10/2017
+117,Moira Jurado Paez,Spain,female,1/30/1996,11/9/2018
+118,Digna Mateo Carrasquill,Spain,female,11/1/1978,11/24/2017
+119,Lisa Ibarra Valadez,Spain,female,12/8/1998,3/6/2019
+120,Robin J. Himes,USA,male,11/30/1988,8/6/2018
+121,Annie R. Barnett,USA,female,3/2/1987,9/13/2017
+122,Thelma B. Coward,USA,female,4/15/1971,11/27/2018
+123,Andrew J. Ramos,USA,male,3/11/1994,12/30/2018
