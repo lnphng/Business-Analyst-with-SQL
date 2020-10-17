@@ -8,15 +8,15 @@ If you surveyed a large number of data scientists and data analysts about which 
 ### Framework
    <ol>
    <li>Data Cleaning Basics
-    <ul><li>Introduction to data cleaning</li>
-<li>Pattern matching</li>
-<li>Matchin similar string</li>
-</ul></li>
+        <ul><li>Introduction to data cleaning</li>
+        <li>Pattern matching</li>
+        <li>Matchin similar string</li>
+        </ul></li>
    <li>Missing, Duplicate, and Invalid Data
- <ul><li>Handling missing data</li>
-<li>Handling duplicated data</li>
-<li>Detecting invalid value</li>
-     <li>Detecting inconsistent data</li></ul>   </li>
+         <ul><li>Handling missing data</li>
+        <li>Handling duplicated data</li>
+        <li>Detecting invalid value</li>
+        <li>Detecting inconsistent data</li></ul>   </li>
    <li>Converting Data
     <ul> 
         <li>Data type conversions </li>
@@ -26,9 +26,9 @@ If you surveyed a large number of data scientists and data analysts about which 
     </li>
  <li>Transforming Data
      <ul>
-         <li>Combining columns </li>
-         <li>Spliting column data </li>
-         <li>Creating pivot table </li>
+        <li>Combining columns </li>
+        <li>Spliting column data </li>
+        <li>Creating pivot table </li>
      </ul>
  </li>
 </ol>
